@@ -1,0 +1,2 @@
+[Hosts.n1]
+components = ["caddy"]
